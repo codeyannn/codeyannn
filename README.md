@@ -45,7 +45,7 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 ## 🛠️ Skills & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,vue,react,fastify,nodejs,postgres,mysql,docker,git&perline=12" />
+<img src="https://skillicons.dev/icons?i=py,c,go,php,nodejs,fastapi,vue,html,mysql,mongodb,postgres,firebase,docker,azure,linux,bash,git,github,vscode,discord,sklearn,tensorflow&perline=11" />
 </div>
 
 ---
@@ -55,12 +55,6 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeyannn&show_icons=true&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&icon_color=3B82F6&border_color=1E3A8A" width="48%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeyannn&layout=compact&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&border_color=1E3A8A" width="39%" />
-</div>
-
-### Profile Details
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyannn&background=0a192f&border=1E3A8A&stroke=3B82F6&ring=3B82F6&fire=60A5FA&currStreakNum=93C5FD&currStreakLabel=60A5FA&sideNums=93C5FD&sideLabels=60A5FA&dates=93C5FD" width="100%" />
 </div>
 
 ---
