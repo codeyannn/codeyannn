@@ -1,18 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Maulana Adrian</h1>
-<h3 align="center">Computer Science Student | Software Developer & Data Enthusiast</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Muhammad%20Maulana%20Adrian&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%26%20Data%20Enthusiast&descAlignY=62&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Data+Enthusiast;Computer+Science+Student;Full-Stack+%C2%B7+Data+Engineering+%C2%B7+Analytics" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-maulana-adrian/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:maulana140804@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/muhammad-maulana-adrian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maulana140804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/About%20Me-7C3AED?style=for-the-badge" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-06B6D4?style=for-the-badge" /></a>
 </p>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me <a id="about-me"></a>
 
 Welcome to my GitHub! I am a Computer Science student with a strong passion for solving problems through code, analyzing data, and building efficient systems. I am actively looking for internship and professional opportunities to contribute and grow.
 
@@ -23,7 +26,7 @@ Welcome to my GitHub! I am a Computer Science student with a strong passion for 
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Featured Projects <a id="featured-projects"></a>
 
 #### 🔍 [Social Media Addiction Prediction](https://github.com/codeyannn/social-media-addiction-prediction)
 A predictive analytics project focused on analyzing behavioral data to forecast social media addiction patterns. This repository showcases my ability to handle datasets, implement analytical models, and extract actionable insights from data.
@@ -38,27 +41,42 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,sql&theme=light" alt="Languages" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,fastify,nodejs&theme=light" alt="Frameworks" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git&theme=light" alt="Tools & DBs" />
-  </a>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,vue,react,fastify,nodejs,postgres,mysql,docker,git&perline=12" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Contribution Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeyannn&show_icons=true&hide_border=true&title_color=000000&icon_color=0077B5&text_color=333333&bg_color=ffffff" alt="Maulana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyannn&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeyannn&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeyannn&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeyannn&theme=tokyonight" width="32%" />
+</div>
+
+### Profile Details + 3D Contribution Graph
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyannn&theme=tokyonight" width="100%" />
+<!-- Note: The 3D graph requires GitHub Actions to be set up -->
+<img src="https://raw.githubusercontent.com/codeyannn/codeyannn/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" onerror="this.style.display='none'" />
+</div>
+
+### Snake Animation
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeyannn/codeyannn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeyannn/codeyannn/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/codeyannn/codeyannn/output/github-contribution-grid-snake-dark.svg" width="100%" onerror="this.style.display='none'" />
+</picture>
+</div>
+
+---
+
+<p align="center"><i>Thanks for visiting! Let's connect and build something awesome.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
