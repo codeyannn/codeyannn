@@ -1,0 +1,37 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup settings.json
+        run: |
+          mkdir -p profile-3d-contrib
+          cat <<EOF > profile-3d-contrib/settings.json
+          {
+            "type": "rainbow",
+            "backgroundColor": "#0d1117",
+            "radarColor": "#7C3AED",
+            "growingAnimation": true,
+            "contribColors": ["#161b22", "#2D1B69", "#5B21B6", "#7C3AED", "#06B6D4"]
+          }
+          EOF
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: profile-3d-contrib/settings.json
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated 3d contribution graph" || exit 0
+          git push
