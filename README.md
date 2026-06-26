@@ -57,22 +57,10 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeyannn&layout=compact&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&border_color=1E3A8A" width="39%" />
 </div>
 
-### Profile Details + 3D Contribution Graph
+### Profile Details
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyannn&background=0a192f&border=1E3A8A&stroke=3B82F6&ring=3B82F6&fire=60A5FA&currStreakNum=93C5FD&currStreakLabel=60A5FA&sideNums=93C5FD&sideLabels=60A5FA&dates=93C5FD" width="100%" />
-<!-- Note: The 3D graph requires GitHub Actions to be set up -->
-<img src="https://raw.githubusercontent.com/codeyannn/codeyannn/main/profile-3d-contrib/profile-night-view.svg" width="100%" onerror="this.style.display='none'" />
-</div>
-
-### Snake Animation
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeyannn/codeyannn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeyannn/codeyannn/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/codeyannn/codeyannn/output/github-contribution-grid-snake-dark.svg" width="100%" onerror="this.style.display='none'" />
-</picture>
 </div>
 
 ---
