@@ -16,11 +16,16 @@ jobs:
           mkdir -p profile-3d-contrib
           cat <<EOF > profile-3d-contrib/settings.json
           {
-            "type": "rainbow",
+            "type": "custom",
+            "fileName": "profile-night-rainbow.svg",
             "backgroundColor": "#0d1117",
             "radarColor": "#7C3AED",
             "growingAnimation": true,
-            "contribColors": ["#161b22", "#2D1B69", "#5B21B6", "#7C3AED", "#06B6D4"]
+            "color0": "#161b22",
+            "color1": "#2D1B69",
+            "color2": "#5B21B6",
+            "color3": "#7C3AED",
+            "color4": "#06B6D4"
           }
           EOF
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
