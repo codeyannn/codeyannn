@@ -53,15 +53,14 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 ## 📊 Contribution Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeyannn&theme=cobalt" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeyannn&theme=cobalt" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeyannn&theme=cobalt" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api?username=codeyannn&show_icons=true&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&icon_color=3B82F6&border_color=1E3A8A" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyannn&layout=compact&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&border_color=1E3A8A" width="48%" />
 </div>
 
 ### Profile Details + 3D Contribution Graph
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyannn&theme=cobalt" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeyannn&background=0a192f&border=1E3A8A&stroke=3B82F6&ring=3B82F6&fire=60A5FA&currStreakNum=93C5FD&currStreakLabel=60A5FA&sideNums=93C5FD&sideLabels=60A5FA&dates=93C5FD" width="100%" />
 <!-- Note: The 3D graph requires GitHub Actions to be set up -->
 <img src="https://raw.githubusercontent.com/codeyannn/codeyannn/main/profile-3d-contrib/profile-night-view.svg" width="100%" onerror="this.style.display='none'" />
 </div>
