@@ -53,8 +53,8 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 ## 📊 Contribution Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codeyannn&show_icons=true&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&icon_color=3B82F6&border_color=1E3A8A" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyannn&layout=compact&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&border_color=1E3A8A" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeyannn&show_icons=true&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&icon_color=3B82F6&border_color=1E3A8A" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeyannn&layout=compact&bg_color=0a192f&title_color=60A5FA&text_color=93C5FD&border_color=1E3A8A" width="48%" />
 </div>
 
 ### Profile Details + 3D Contribution Graph
