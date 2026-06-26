@@ -19,24 +19,25 @@
 
 Welcome to my GitHub! I am a Computer Science student with a strong passion for solving problems through code, analyzing data, and building efficient systems. I am actively looking for internship and professional opportunities to contribute and grow.
 
-* 🎓 Pursuing a Bachelor's degree in **Computer Science** at Universitas Pendidikan Indonesia (Expected 2028).
-* 👨‍🏫 Currently serving as a **Laboratory Assistant** for the Database Management Systems course.
-* 💡 Experienced in full-stack development, with a growing focus on data engineering and predictive analytics.
-* 📍 Based in Bandung, Indonesia.
+- 🎓 Pursuing a Bachelor's degree in **Computer Science** at Universitas Pendidikan Indonesia (Expected 2028).
+- 👨‍🏫 Currently serving as a **Laboratory Assistant** for the Database Management Systems course.
+- 💡 Experienced in full-stack development, with a growing focus on data engineering and predictive analytics.
+- 📍 Based in Bandung, Indonesia.
 
 ---
 
 ## 🚀 Featured Projects <a id="featured-projects"></a>
 
 #### 🔍 [Social Media Addiction Prediction](https://github.com/codeyannn/social-media-addiction-prediction)
+
 A predictive analytics project focused on analyzing behavioral data to forecast social media addiction patterns. This repository showcases my ability to handle datasets, implement analytical models, and extract actionable insights from data.
 
 <details>
 <summary><b>📂 View Other Notable Work</b></summary>
 
-* **Automated Crypto Data Pipeline:** An end-to-end data pipeline built with Python, PostgreSQL, and Docker.
-* **Kailku:** A comprehensive web and mobile application for fishing spot bookings.
-* **LitterAlly:** A web-based waste management and tracking application.
+- **Automated Crypto Data Pipeline:** An end-to-end data pipeline built with Python, PostgreSQL, and Docker.
+- **Kailku:** A comprehensive web and mobile application for fishing spot bookings.
+- **LitterAlly:** A web-based waste management and tracking application.
 </details>
 
 ---
@@ -62,7 +63,7 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeyannn&theme=tokyonight" width="100%" />
 <!-- Note: The 3D graph requires GitHub Actions to be set up -->
-<img src="https://raw.githubusercontent.com/codeyannn/codeyannn/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" onerror="this.style.display='none'" />
+<img src="https://raw.githubusercontent.com/codeyannn/codeyannn/main/profile-3d-contrib/profile-night-view.svg" width="100%" onerror="this.style.display='none'" />
 </div>
 
 ### Snake Animation
