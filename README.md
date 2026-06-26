@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:60A5FA&height=180&section=header&text=Muhammad%20Maulana%20Adrian&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20and%20Data%20Enthusiast&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:60A5FA&height=180&section=header&text=Muhammad%20Maulana%20Adrian&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20AI%20and%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=60A5FA&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Data+Enthusiast;Computer+Science+Student;Full-Stack+%C2%B7+Data+Engineering+%C2%B7+Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=60A5FA&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Data+Enthusiast;Computer+Science+Student;AI+Machine+Learning+Enthusiast;Full-Stack+%C2%B7+Data+Enthusiast+%C2%B7+Analytics" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-maulana-adrian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -45,7 +45,10 @@ A predictive analytics project focused on analyzing behavioral data to forecast 
 ## 🛠️ Skills & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,c,go,php,nodejs,fastapi,vue,html,mysql,mongodb,postgres,firebase,docker,azure,linux,bash,git,github,vscode,discord,sklearn,tensorflow&perline=11" />
+<img src="https://skillicons.dev/icons?i=py,c,go,php,nodejs,fastapi,vue,html,mysql,mongodb" />
+<br>
+<img src="https://skillicons.dev/icons?i=firebase,docker,azure,git,github,vscode,discord,sklearn,tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="48" />
 </div>
 
 ---
