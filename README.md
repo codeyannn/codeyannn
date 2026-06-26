@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Muhammad%20Maulana%20Adrian&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%26%20Data%20Enthusiast&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Muhammad%20Maulana%20Adrian&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20and%20Data%20Enthusiast&descAlignY=62&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Data+Enthusiast;Computer+Science+Student;Full-Stack+%C2%B7+Data+Engineering+%C2%B7+Analytics" />
 
