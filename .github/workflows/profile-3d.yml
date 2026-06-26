@@ -11,28 +11,10 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - name: Setup settings.json
-        run: |
-          mkdir -p profile-3d-contrib
-          cat <<EOF > profile-3d-contrib/settings.json
-          {
-            "type": "custom",
-            "fileName": "profile-night-rainbow.svg",
-            "backgroundColor": "#0d1117",
-            "radarColor": "#7C3AED",
-            "growingAnimation": true,
-            "color0": "#161b22",
-            "color1": "#2D1B69",
-            "color2": "#5B21B6",
-            "color3": "#7C3AED",
-            "color4": "#06B6D4"
-          }
-          EOF
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: profile-3d-contrib/settings.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
